@@ -1,12 +1,11 @@
 # exMediaQuery
 
 # About the project
-This project is part of Codecademy's Bootcamp.
-During the studies on HTML fundamentals, the site was created to demonstrate how to include tables in the web page.
+This file was created to test Responsive Web Design - Media Queries on different screens.
 
 
 ## Layout web
-![Web 1](webPage.png)
+![Web 1](mediaQuery.gif)
 
 
 # Technologies and tools I use
