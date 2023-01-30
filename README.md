@@ -4,7 +4,7 @@
 This file was created to test Responsive Web Design - Media Queries on different screens.
 
 
-## Layout web
+## Gif Demonstration
 ![Web 1](mediaQuery.gif)
 
 
