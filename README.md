@@ -5,7 +5,7 @@ This file was created to test Responsive Web Design - Media Queries on different
 
 
 ## Gif Demonstration
-![Web 1](mediaQuery.gif)
+![Web 1](https://github.com/celiceceron/mediaQuery/blob/59549708f7ca70af95707d765e8dfa6c96802440/mediaQuery.gif)
 
 
 # Technologies and tools I use
