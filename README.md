@@ -10,7 +10,7 @@ This file was created to test Responsive Web Design - Media Queries on different
 
 # Technologies and tools I use
 ## Front end
-- HTML
+- HTML5
 
 # Autor
 Celice Ceron <br>
